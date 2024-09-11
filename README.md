@@ -1,6 +1,8 @@
 # mtsc
 A simple multi-thread server-client model using PyTorch c10d
 
+![Screenshot 2024-09-11 at 4 31 36 PM](https://github.com/user-attachments/assets/8d41079e-c503-46fb-8d31-3a53b1527c14)
+
 # Server Side
 To launch the server side, just do:
 ```
